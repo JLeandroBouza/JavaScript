@@ -19,3 +19,5 @@ console.log(saludo.charAt(2))
 console.log(saludo.indexOf('o'))
 console.log(saludo.indexOf('Cómo'))
 console.log(saludo.lastIndexOf('o'))
+
+
